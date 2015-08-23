@@ -17,6 +17,7 @@ Please download and setup ruby 2.0.0
 ## Sample Run and Outputs
 
 > ruby measurelatency.rb
+
 Target URL = http://www.google.com.au, Http Response Code = 200, Response Time(in ms) = 255
 Target URL = https://www.facebook.com:443, Http Response Code = 200, Response Time(in ms) = 536
 getaddrinfo: nodename nor servname provided, or not known
